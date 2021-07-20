@@ -25,7 +25,7 @@ $(".againb").click(function(){
 
 $('.againb').hide(500); 
 $('.block').delay(500).show(500); 
-$(".bb").text(" ");
+$(".bb").text(".");
 player.text("First player")
 
 });
