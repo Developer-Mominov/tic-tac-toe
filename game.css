@@ -93,4 +93,8 @@
     .bb{
         font-size: 10vw;
     }
+    .block{
+    width:95%;
+        height:70%;
+    }
 }
