@@ -155,7 +155,7 @@ $(".game1").click(function(){
   $(".game2").click(function(){
 
 
-    alert("tez orada ishlab chiqiladi || score will be ready");
+    alert("tez orada ishlab chiqiladi || will be ready soon");
   //  var tekshir2=0;
   //  var sum=0;
   //  var sanoq=0;
